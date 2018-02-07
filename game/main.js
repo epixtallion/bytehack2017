@@ -11,6 +11,7 @@ document.body.appendChild(app.view);
 loader
   .add('bg1', "game/media/ldr_bg1.png")
   .add('lion1', "game/media/ldr_lion1.png")
+  .add('paper', "game/media/a-plus-paper.jpg")
   .load(setup);
 
 //Variable for key listeners
